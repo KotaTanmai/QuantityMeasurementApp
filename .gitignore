@@ -1,0 +1,8 @@
+*.class
+*.log
+.vscode/
+.idea/
+bin/
+out/
+target/
+node_modules/
